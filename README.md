@@ -1,2 +1,3 @@
 # animated-giggle
-Using kernel SVM for multi-class classification
+
+Using kernel support vector machine with the huberized hinge loss for multiclass classification.
