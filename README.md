@@ -9,7 +9,7 @@ Considering multiclass classification as the main objective, all comparisons wil
 
 ## Running the demos:
 
-The ipython notebooks are pretty self sufficient. You just need to download them an run them on your system
+The ipython notebooks are pretty self sufficient. You just need to download them and run them on your system
 
 ### Requirements:
 
